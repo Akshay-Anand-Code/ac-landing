@@ -1,0 +1,42 @@
+{
+  "node": {
+    "7ffe1f737ae5c4d720a0c2fd5d6c9f7dcc7daee135": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fcairo%2Fac-land%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227ffe1f737ae5c4d720a0c2fd5d6c9f7dcc7daee135%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(nondashboard)/search/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fcairo%2Fac-land%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227ffe1f737ae5c4d720a0c2fd5d6c9f7dcc7daee135%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(dashboard)/user/courses/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fcairo%2Fac-land%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227ffe1f737ae5c4d720a0c2fd5d6c9f7dcc7daee135%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(dashboard)/user/profile/[[...profile]]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fcairo%2Fac-land%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227ffe1f737ae5c4d720a0c2fd5d6c9f7dcc7daee135%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(auth)/signin/[[...signin]]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fcairo%2Fac-land%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227ffe1f737ae5c4d720a0c2fd5d6c9f7dcc7daee135%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(dashboard)/user/billing/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fcairo%2Fac-land%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227ffe1f737ae5c4d720a0c2fd5d6c9f7dcc7daee135%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/(nondashboard)/search/page": "action-browser",
+        "app/(dashboard)/user/courses/page": "action-browser",
+        "app/(dashboard)/user/profile/[[...profile]]/page": "action-browser",
+        "app/(auth)/signin/[[...signin]]/page": "action-browser",
+        "app/(dashboard)/user/billing/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "BdKdL6jEc0GFD1/JuNWSnHvEVRujxjegg3P8CB1HxgM="
+}
